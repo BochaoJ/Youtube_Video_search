@@ -1,5 +1,5 @@
 # equSA
-equSA package
+R package
 
 https://cran.r-project.org/web/packages/equSA/index.html
 
